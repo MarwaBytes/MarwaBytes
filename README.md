@@ -17,7 +17,7 @@ Bienvenue sur mon GitHub ! Tu trouveras ici des projets réalisés dans le cadre
 
 ---
 
-## 💼 Projets – Power BI & Wild Code School
+## 💼 Projets – Wild Code School
 
 1.  **Dashboard BI – Analyse des Ventes**
 2.  **Dashboard BI+ Streamlit - Système de recommandation de Films**

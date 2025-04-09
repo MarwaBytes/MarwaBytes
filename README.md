@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**ABOUD43/ABOUD43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 #  Salut, je suis Marwa !
 
 🎯 **Data Analyst | Passionné de Data Visualisation & BI**
@@ -49,4 +44,4 @@ Bienvenue sur mon GitHub ! Tu trouveras ici des projets réalisés dans le cadre
 ---
 
 
--->
+

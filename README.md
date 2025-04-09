@@ -8,20 +8,20 @@ Bienvenue sur mon GitHub ! Tu trouveras ici des projets réalisés dans le cadre
 
 ## 📊 Projets – Formation OpenClassrooms
 
-1.  **Projet 1 : Analyse des données éducatives**
-2.  **Projet 2 : Application santé publique**
-3.  **Projet 3 : Consommation énergétique**
-4.  **Projet 4 : Segmentation client e-commerce**
-5.  **Projet 5 : Classification produits**
-6.  **Projet 6 : Modèle de scoring et déploiement**
+1.  **Analyse des données éducatives**
+2.  **Application santé publique**
+3.  **Consommation énergétique**
+4.  **Segmentation client e-commerce**
+5.  **Classification produits**
+6.  **Modèle de scoring et déploiement**
 
 ---
 
 ## 💼 Projets – Power BI & Wild Code School
 
 1.  **Dashboard BI – Analyse des Ventes**
-2.  **Dashboard BI+ Streamlit - Système de recommandation de Films **
-3.  **Dashboard Power BI - Analyse Parkings Nantes **
+2.  **Dashboard BI+ Streamlit - Système de recommandation de Films**
+3.  **Dashboard Power BI - Analyse Parkings Nantes**
 
 ---
 

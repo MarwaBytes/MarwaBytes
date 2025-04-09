@@ -29,10 +29,11 @@ Bienvenue sur mon GitHub ! Tu trouveras ici des projets réalisés dans le cadre
 
 - **Langages :** Python , SQL, DAX
 - **Outils :** Power BI, Excel, GitHub, Jupyter, Streamlit
-- **Data :**  - Collecte & préparation des données , 
-              - Analyse exploratoire et data visualisation ,
-              - Modélisation prédictive, classification, NLP
-              - Optimisation et évaluation de modèles ML
+- **Data :**
+  - Collecte & préparation des données
+  - Analyse exploratoire et data visualisation
+  - Modélisation prédictive, classification, NLP
+  - Optimisation et évaluation de modèles ML
 - **Cloud/API :** Notions d'API, bases de déploiement
 
 ---

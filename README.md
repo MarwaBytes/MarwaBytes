@@ -40,7 +40,7 @@ Bienvenue sur mon GitHub ! Tu trouveras ici des projets réalisés dans le cadre
 
 ## Me Contacter
 
-- [LinkedIn](https://www.linkedin.com/in/marwa-a-73b427204/) 
+- [LinkedIn](https://www.linkedin.com/in/marwa-h-73b427204/) 
 
 ---
 
